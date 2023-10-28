@@ -1,1 +1,1 @@
-print("Auth")
+print("Auth 2.0")
